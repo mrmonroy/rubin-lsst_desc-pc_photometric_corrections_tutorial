@@ -1,0 +1,20 @@
+aerosol_default 
+aerosol_set_tau_at_wvl 500 0.04
+albedo 0.2
+altitude 2.75
+atmosphere_file /home/martin/auxtel_lsst/External/libRadtran//share/libRadtran/data/atmmod/afglus.dat
+data_files_path /home/martin/auxtel_lsst/External/libRadtran//share/libRadtran/data
+ic_file 1D ./IC.DAT
+ic_modify tau set 0.0
+ic_properties yang
+mol_abs_param reptran coarse
+mol_modify H2O 3.0 MM
+mol_modify O3 300 DU
+output_quantity reflectivity
+output_user lambda edir
+phi0 0
+quiet 
+rte_solver disort
+source solar /home/martin/auxtel_lsst/External/libRadtran//share/libRadtran/data/solar_flux/kurudz_1.0nm.dat
+sza 33.55730976192071
+wavelength 250.0 1200.0
