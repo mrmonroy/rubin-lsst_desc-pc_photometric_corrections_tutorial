@@ -1,0 +1,161 @@
+jc_1.fits 	HD 242908 	O5 V
+jc_2.fits 	HD 215835 	O5.5 V
+jc_3.fits 	HD 12993 	O6.5 V
+jc_4.fits 	HD 35619 	O7 V
+jc_5.fits 	HD 44811 	O7.5 V
+jc_6.fits 	HD 242935 	O8 V
+jc_7.fits 	HD 236894 	O8 V
+jc_8.fits 	HD 17520 	O9 V
+jc_9.fits 	HD 12323 	O9 V
+jc_10.fits 	BD +62 0249 	O9.5 V
+jc_11.fits 	HD 158659 	B0 V
+jc_12.fits 	HD 237007 	B0 V
+jc_13.fits 	HD 35215 	B1.5 V
+jc_14.fits 	HD 37767 	B3 V
+jc_15.fits 	FEIGE 40 	B4 V
+jc_16.fits 	HD 240344 	B4 V
+jc_17.fits 	HD 30584 	B6 V
+jc_18.fits 	O 1015 	B8 V
+jc_19.fits 	HD 116608 	A1 V
+jc_20.fits 	FEIGE 41 	A1 V
+jc_21.fits 	HD 124320 	A2 V
+jc_22.fits 	FEIGE 28 	A2 V
+jc_23.fits 	HD 190785 	A2 V
+jc_24.fits 	HD 221741 	A3 V
+jc_25.fits 	HD 9547 	A5 V
+jc_26.fits 	HD 21619 	A6 V
+jc_27.fits 	HD 23863 	A7 V
+jc_28.fits 	HD 111525 	A7 V
+jc_29.fits 	HD 9972 	A8 V
+jc_30.fits 	HD 23733 	A9 V
+jc_31.fits 	HD 10032 	F0 V
+jc_32.fits 	Hz 948 	F3 V
+jc_33.fits 	HD 23511 	F4 V
+jc_34.fits 	Hz 227 	F5 V
+jc_35.fits 	SAO 57199 	F6 V
+jc_36.fits 	HD 24189 	F6 V
+jc_37.fits 	HD 5702 	F7 V
+jc_38.fits 	HD 107132 	F7 V
+jc_39.fits 	HD 107214 	F7 V
+jc_40.fits 	HD 6111 	F8 V
+jc_41.fits 	HD 31084 	F9 V
+jc_42.fits 	HD 107399 	F9 V
+jc_43.fits 	HD 28099 	G0 V
+jc_44.fits 	HD 17647 	G1 V
+jc_45.fits 	HD 66171 	G2 V
+jc_46.fits 	BD +58 1199 	G3 V
+jc_47.fits 	Tr A14 	G4 V
+jc_48.fits 	HD 22193 	G6 V
+jc_49.fits 	HD 27685 	G7 V
+jc_50.fits 	HD 33278 	G9 V
+jc_51.fits 	HD 29050 	G9 V
+jc_52.fits 	HD 23524 	K0 V
+jc_53.fits 	HD 5351 	K4 V
+jc_54.fits 	SAO 76803 	K5 V
+jc_55.fits 	HD 260655 	M0V
+jc_56.fits 	BD +63 0137 	M1 V
+jc_57.fits 	YALE 1755 	M5 V
+jc_58.fits 	HD 13505 	F0IV
+jc_59.fits 	HD 83140 	F3 IV
+jc_60.fits 	HD 78277 	G2 IV
+jc_61.fits 	HD 70178 	G5 IV
+jc_62.fits 	HD 227018 	O6.5 III
+jc_63.fits 	SAO 11810 	O7.5 III
+jc_64.fits 	HD 191978 	O8.5 III
+jc_65.fits 	HD 16429 	O9.5 III
+jc_66.fits 	HD 13494 	B1 III
+jc_67.fits 	HD 12727 	B2 III
+jc_68.fits 	O 2311 	B2 III
+jc_69.fits 	SAO 11885 	B2.5 III
+jc_70.fits 	HD 166125 	B3 III
+jc_71.fits 	HD 39136 	B4 III
+jc_72.fits 	HD 56183 	B4 III
+jc_73.fits 	HD 256413 	B5 III
+jc_74.fits 	BD +61 0367 	B7 III
+jc_75.fits 	HD 28696 	B8 III
+jc_76.fits 	HD 20023 	B9 III
+jc_77.fits 	HD 12027 	A3 III
+jc_78.fits 	HD 240296 	A6 III
+jc_79.fits 	HD 12161 	A8 III
+jc_80.fits 	HD 64191 	F0 III
+jc_81.fits 	HD 5211 	F4 III
+jc_82.fits 	BD +61 0367 	F5 III
+jc_83.fits 	HD 56030 	F6 III
+jc_84.fits 	SAO 20603 	F7 III
+jc_85.fits 	HD 9979 	F8 III
+jc_86.fits 	HD 15866 	G0 III
+jc_87.fits 	BD +30 2347 	G0 III
+jc_88.fits 	HD 25894 	G2 III
+jc_89.fits 	HD 2506 	G4 III
+jc_90.fits 	BD +28 1885 	G5 III
+jc_91.fits 	HD 112872 	G6 III
+jc_92.fits 	HD 26514 	G6 III
+jc_93.fits 	HD 29883 	G6 III
+jc_94.fits 	HD 249240 	G7 III
+jc_95.fits 	HD 245389 	G8 III
+jc_96.fits 	SAO 55155 	G9 III
+jc_97.fits 	SAO 55164 	K0 III
+jc_98.fits 	HD 33506 	K2 III
+jc_99.fits 	SAO 77849 	K2 III
+jc_100.fits 	HD 26946 	K3 III
+jc_101.fits 	HD 21110 	K4 III
+jc_102.fits 	SAO 21753 	K7 III
+jc_103.fits 	SAO 63349 	M3 III
+jc_104.fits 	HD 110964 	M4 III
+jc_105.fits 	SAO 62808 	M5 III
+jc_106.fits 	HD 14357 	B2 II
+jc_107.fits 	BD -14 4956 	B2 II
+jc_108.fits 	BD -00 3227 	F5 II
+jc_109.fits 	HD 249384 	G8 II
+jc_110.fits 	HD 250368 	G9 II
+jc_111.fits 	HD 249826 	K6 II
+jc_112.fits 	BD +19 1947 	M3 II
+jc_113.fits 	BD +36 1967 	M7 II
+jc_114.fits 	BD -11 4586 	O8 I
+jc_115.fits 	HD 225160 	O8 I
+jc_116.fits 	HD 16808 	B0.5 Ib
+jc_117.fits 	HD 167451 	B0.5 Ib
+jc_118.fits 	BD -14 5030 	B1.5 Ia
+jc_119.fits 	HD 209678 	B2 Ib
+jc_120.fits 	SAO 20899 	B3 I
+jc_121.fits 	HD 192832 	B5 Ia
+jc_122.fits 	BD +61 0220 	B7 I
+jc_123.fits 	HD 17145 	B8 Ia
+jc_124.fits 	LSI V P24 	B9 Ib
+jc_125.fits 	HD 209900 	A0 Ib
+jc_126.fits 	SAO 11344 	A0 Ib
+jc_127.fits 	SAO 12149 	A1 I
+jc_128.fits 	42 LSI 	A2 I
+jc_129.fits 	SAO 87716 	A3 Ia
+jc_130.fits 	SAO 12096 	A4 I
+jc_131.fits 	HD 9167 	A7 I
+jc_132.fits 	HD 842 	A9 I
+jc_133.fits 	SAO 37370 	F0 Ib
+jc_134.fits 	BD +58 0204 	F2 I
+jc_135.fits 	HD 12842 	F3 I
+jc_136.fits 	SAO 21536 	F4 I
+jc_137.fits 	HD 9973 	F5 Iab
+jc_138.fits 	HD 8992 	F6 Ib
+jc_139.fits 	HD 17971 	F7 I
+jc_140.fits 	HD 187428 	F8 Ib
+jc_141.fits 	HD 25361 	G0 Ia
+jc_142.fits 	SAO 21446 	G1 I
+jc_143.fits 	BD +56 0084 	G2 I
+jc_144.fits 	HD 191010 	G3 Ib
+jc_145.fits 	HD 187299 	G5 I
+jc_146.fits 	HD 186293 	K0 I
+jc_147.fits 	SAO 37325 	K1 Ib
+jc_148.fits 	HD 1069 	K2 I
+jc_149.fits 	HD 1400 	K5 I
+jc_150.fits 	HD 14330 	M1 Iab
+jc_151.fits 	SAO 23888 	M1 I
+jc_152.fits 	HD 13136 	M2 Ib
+jc_153.fits 	HD 94028 	F4 V
+jc_154.fits 	SAO 102986 	F7 V
+jc_155.fits 	SAO 81292 	M4.5 Ve
+jc_156.fits 	HD 16691 	O5 If
+jc_157.fits 	HD 108 	O6 If
+jc_158.fits 	BD +40 4220 	O7 If
+jc_159.fits 	HD 13256 	B1 Ia
+jc_160.fits 	HD 50064 	B1 Ia
+jc_161.fits 	BD +51 0710 	B5 Ib

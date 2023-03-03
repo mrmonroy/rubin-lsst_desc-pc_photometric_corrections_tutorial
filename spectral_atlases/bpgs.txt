@@ -1,0 +1,175 @@
+bpgs_1.fits 	9-SGR 	O5
+bpgs_2.fits 	9-SGE 	O8F
+bpgs_3.fits 	HR8023 	O6
+bpgs_4.fits 	BD-01D935 	B1V
+bpgs_5.fits 	60-CYG 	B1V
+bpgs_6.fits 	102-HER 	B2V
+bpgs_7.fits 	ETA-HYA 	B3V
+bpgs_8.fits 	IOTA-HER 	B3V
+bpgs_9.fits 	HR7899 	B4V
+bpgs_10.fits 	38-OPH 	A1V
+bpgs_11.fits 	HR7174 	B6V
+bpgs_12.fits 	9-VUL 	B7V
+bpgs_13.fits 	HD189689 	B9V
+bpgs_14.fits 	THETA-VIR 	A0V
+bpgs_15.fits 	NU-CAP 	B9V
+bpgs_16.fits 	HR6169 	A2V
+bpgs_17.fits 	HD190849A 	A1V
+bpgs_18.fits 	69-HER 	A2V
+bpgs_19.fits 	HD190849B 	A3V
+bpgs_20.fits 	58-AQL 	A0V
+bpgs_21.fits 	78-HER 	B9V
+bpgs_22.fits 	HR6570 	A7V
+bpgs_23.fits 	HD187754 	A2V
+bpgs_24.fits 	THETA1-SER 	A5V
+bpgs_25.fits 	PRAESEPE-276 	 
+bpgs_26.fits 	PRAESEPE-114 	 
+bpgs_27.fits 	PRAESEPE-154 	 
+bpgs_28.fits 	HD190192 	A5V
+bpgs_29.fits 	PRAESEPE-226 	 
+bpgs_30.fits 	PRAESEPE-37 	 
+bpgs_31.fits 	HD191177 	F4V
+bpgs_32.fits 	PRAESEPE-332 	 
+bpgs_33.fits 	BD+29D3891 	F6V
+bpgs_34.fits 	PRAESEPE-222 	 
+bpgs_35.fits 	HD35296 	F8V
+bpgs_36.fits 	BD+26D3780 	G0V
+bpgs_37.fits 	HD148816 	F9V
+bpgs_38.fits 	HD155675 	F8V
+bpgs_39.fits 	PRAESEPE-418 	 
+bpgs_40.fits 	HYAD-1 	 
+bpgs_41.fits 	HD122693 	F8V
+bpgs_42.fits 	HD154417 	F8V
+bpgs_43.fits 	HYAD-2 	 
+bpgs_44.fits 	HD227547 	G5V
+bpgs_45.fits 	HD154760 	G2V
+bpgs_46.fits 	HD190605 	G2V
+bpgs_47.fits 	HYAD-15 	 
+bpgs_48.fits 	HD139777A 	K0V
+bpgs_49.fits 	HD136274 	G8V
+bpgs_50.fits 	HYAD-26 	 
+bpgs_51.fits 	HD150205 	G5V
+bpgs_52.fits 	HYAD-21 	 
+bpgs_53.fits 	BD+02D3001 	G8V
+bpgs_54.fits 	HD190571 	G8V
+bpgs_55.fits 	HYAD-183 	 
+bpgs_56.fits 	HD190470 	K3V
+bpgs_57.fits 	HD154712 	K4V
+bpgs_58.fits 	HYAD-185 	 
+bpgs_59.fits 	BD+38D2457 	K8V
+bpgs_60.fits 	HYAD-173 	 
+bpgs_61.fits 	GL40 	M0V
+bpgs_62.fits 	HYAD-189 	 
+bpgs_63.fits 	HD151288 	K7V
+bpgs_64.fits 	HD157881 	K7V
+bpgs_65.fits 	HD132683 	M0V
+bpgs_66.fits 	GL15A 	M0V
+bpgs_67.fits 	GL49 	M2V
+bpgs_68.fits 	GL109 	M4V
+bpgs_69.fits 	GL15B 	M6V
+bpgs_70.fits 	GL83.1 	M8V
+bpgs_71.fits 	GL65 	M5V
+bpgs_72.fits 	HR7567 	B1IV
+bpgs_73.fits 	HR7591 	B2III
+bpgs_74.fits 	20-AQL 	B3IV
+bpgs_75.fits 	HR7467 	B3III
+bpgs_76.fits 	IOTA-LYR 	B7IV
+bpgs_77.fits 	HR7346 	B7III
+bpgs_78.fits 	59-HER 	A3III
+bpgs_79.fits 	HR6642 	A0IV
+bpgs_80.fits 	11-SGE 	B9IV
+bpgs_81.fits 	60-HER 	A3IV
+bpgs_82.fits 	HD192285 	A4IV
+bpgs_83.fits 	ALPHA-OPH 	A5III
+bpgs_84.fits 	HD165475B 	A5IV
+bpgs_85.fits 	HD165475 	A5IV
+bpgs_86.fits 	XI-SER 	F0IV
+bpgs_87.fits 	HD5132 	F0IV
+bpgs_88.fits 	HD508 	A9IV
+bpgs_89.fits 	HD210875 	F0IV
+bpgs_90.fits 	RHO-CAP 	F2IV
+bpgs_91.fits 	HD7331 	F7IV
+bpgs_92.fits 	BD+63D0013 	F5IV
+bpgs_93.fits 	HD13391 	G2IV
+bpgs_94.fits 	HD154962 	G8IV
+bpgs_95.fits 	HD192344 	G4IV
+bpgs_96.fits 	HR6516 	G6IV
+bpgs_97.fits 	HR7670 	G6IV
+bpgs_98.fits 	HD128428 	G3IV
+bpgs_99.fits 	31-AQL 	G8IV
+bpgs_100.fits 	BD-02D4018 	G5IV
+bpgs_101.fits 	M67-F143? 	 
+bpgs_102.fits 	HD11004 	G5IV
+bpgs_103.fits 	HD173399A 	G5IV
+bpgs_104.fits 	HD56176 	G7IV
+bpgs_105.fits 	HD227693 	G5IV
+bpgs_106.fits 	HD199580 	K2IV
+bpgs_107.fits 	HD152306 	G8III
+bpgs_108.fits 	PRAESEPE-212 	 
+bpgs_109.fits 	THETA1-TAU 	G8III
+bpgs_110.fits 	HD170527 	G5IV
+bpgs_111.fits 	HD136366 	K0III
+bpgs_112.fits 	HD191615 	G8IV
+bpgs_113.fits 	HD124679 	K0III
+bpgs_114.fits 	HD131111 	K0III
+bpgs_115.fits 	HD113439 	K0III
+bpgs_116.fits 	HD4744 	G8IV
+bpgs_117.fits 	HD7010 	K0IV
+bpgs_118.fits 	46-LMI 	K0III
+bpgs_119.fits 	91-AQR 	K0III
+bpgs_120.fits 	M67-F141 	 
+bpgs_121.fits 	HR8924A 	K3III
+bpgs_122.fits 	HD140301 	K0IV
+bpgs_123.fits 	HD95272 	K0III
+bpgs_124.fits 	HD72184 	K2III
+bpgs_125.fits 	HD119425 	K2III
+bpgs_126.fits 	HD106760 	K1III
+bpgs_127.fits 	PSI-UMA 	K1III
+bpgs_128.fits 	PHI-SER 	K1III
+bpgs_129.fits 	HD136514 	K3III
+bpgs_130.fits 	MU-AQL 	K3III
+bpgs_131.fits 	HR5227 	K2IIIP
+bpgs_132.fits 	HD154759 	K3III
+bpgs_133.fits 	20-CYG 	K3III
+bpgs_134.fits 	ALPH-SER 	K2III
+bpgs_135.fits 	MU-LEO 	K2III
+bpgs_136.fits 	BD+01D3131 	K0III
+bpgs_137.fits 	M67-F170 	 
+bpgs_138.fits 	18-LIB-A 	K2IIIP
+bpgs_139.fits 	BD+28D2165 	K1IV
+bpgs_140.fits 	NGC188-1_69 	 
+bpgs_141.fits 	BD+30D2344 	K3III
+bpgs_142.fits 	HD83618 	K3III
+bpgs_143.fits 	HD158885 	K3III
+bpgs_144.fits 	HD166780 	K5III
+bpgs_145.fits 	HD148513 	K4III
+bpgs_146.fits 	M67-T626 	 
+bpgs_147.fits 	HD127227 	K5III
+bpgs_148.fits 	M67-IV-202 	 
+bpgs_149.fits 	HD50778 	K4III
+bpgs_150.fits 	HD62721 	K5III
+bpgs_151.fits 	HD116870 	M0III
+bpgs_152.fits 	HD60522 	M0III
+bpgs_153.fits 	BD-01D3113 	K5III
+bpgs_154.fits 	BD+02D2884 	K5III
+bpgs_155.fits 	BD-02D3873 	M0III
+bpgs_156.fits 	HD104216 	M2III
+bpgs_157.fits 	HD142804 	M1III
+bpgs_158.fits 	HD30959 	M3III
+bpgs_159.fits 	HD151658 	M2III
+bpgs_160.fits 	BD-02D4025 	M2III
+bpgs_161.fits 	BD-01D3097 	M2III
+bpgs_162.fits 	TX-DRA 	 
+bpgs_163.fits 	Z-CYG 	M8III
+bpgs_164.fits 	BD+01D3133 	M5III
+bpgs_165.fits 	BD-02D3886 	M5III
+bpgs_166.fits 	W-HER 	M6III
+bpgs_167.fits 	TY-DRA 	M8
+bpgs_168.fits 	SW-VIR 	M7III
+bpgs_169.fits 	RZ-HER 	M6III
+bpgs_170.fits 	R-LEO 	 
+bpgs_171.fits 	AW-CYG 	N
+bpgs_172.fits 	WZ-CAS 	N
+bpgs_173.fits 	69-CYG 	B0IB
+bpgs_174.fits 	HR7699 	B5IB
+bpgs_175.fits 	HR8020 	B8IA
